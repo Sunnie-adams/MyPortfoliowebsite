@@ -1,0 +1,3 @@
+1. git add .  
+2. git commit -m"Added picture, name, phone number, email"
+3. git push origin -u main
